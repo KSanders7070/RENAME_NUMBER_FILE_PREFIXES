@@ -10,4 +10,4 @@ by an underscore:
       100020_Some name_here.txt
       1_Some name_here and stuff.xml
 
-This BATCH File MUST be in the same directory with all of the .txt files that you wish to rename.
+This BATCH File MUST be in the same directory with all of the files that you wish to rename.
